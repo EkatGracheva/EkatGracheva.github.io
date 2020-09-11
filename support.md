@@ -1,1 +1,1 @@
-По всем вопросам просьба писать на почту mailto:ekater.gracheva@gmail.com
+По всем вопросам просьба писать на почту [ekater.gracheva@gmail.com](mailto:ekater.gracheva@gmail.com)
