@@ -1,2 +1,3 @@
-Support page for projects:
+Support page for projects: [Link](https://ekatgracheva.github.io/support)
+
 License agreement for projects:
