@@ -1,3 +1,3 @@
-Support page for projects: [Link](https://ekatgracheva.github.io/support)
+Support page for projects: [link](https://ekatgracheva.github.io/support)
 
-License agreement for projects:
+Privacy policy for applications: [link](https://ekatgracheva.github.io/privacy)
